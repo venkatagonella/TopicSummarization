@@ -1,0 +1,24 @@
+{
+  "name": "topic-summarization-web",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "start": "vite",
+    "stop": "lsof -ti tcp:5273 | xargs kill 2>/dev/null || echo 'Daily Brief server not running'",
+    "restart": "npm run stop; npm run dev",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@tailwindcss/vite": "^4.1.7",
+    "@vitejs/plugin-react": "^4.3.4",
+    "tailwindcss": "^4.1.7",
+    "vite": "^6.0.7"
+  }
+}

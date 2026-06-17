@@ -1,0 +1,7 @@
+{
+  "source": "gmail",
+  "label": "Gmail",
+  "status": "placeholder",
+  "message": "Gmail is not yet connected. There is no Gmail MCP available in this workspace. This section will populate once a Gmail connector (OAuth or MCP) is wired up.",
+  "items": []
+}

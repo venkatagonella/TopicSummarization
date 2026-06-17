@@ -1,0 +1,67 @@
+{
+  "source": "slack",
+  "label": "Slack",
+  "status": "live",
+  "items": [
+    {
+      "id": "slk-katerina-1781681758",
+      "date": "2026-06-17",
+      "title": "Katerina Bineva (DM) — schedule HRM follow-up",
+      "summary": "Asked you to book time on her calendar for HRM projects (open slots, later in the day is better). She also shared prior HRM call notes and FedRAMP context. Needs you to schedule it.",
+      "priority": "high",
+      "actionNeeded": true,
+      "link": "https://phenom.slack.com/archives/D0B35QS7GKX/p1781681758218739",
+      "meta": { "channel": "DM", "from": "Katerina Bineva" }
+    },
+    {
+      "id": "slk-karthik-1781681196",
+      "date": "2026-06-17",
+      "title": "Karthik Narahari (group DM) — sprint/backlog cleanup",
+      "summary": "Said go ahead and update: push carried-over items to backlog and only move the ones actively being worked into the release/sprint. Your action to update.",
+      "priority": "medium",
+      "actionNeeded": true,
+      "link": "https://phenom.slack.com/archives/C0BBZL3L8SU/p1781681196033329",
+      "meta": { "channel": "Group DM", "from": "Karthik Narahari" }
+    },
+    {
+      "id": "slk-katerina-grp-1781680606",
+      "date": "2026-06-17",
+      "title": "Katerina Bineva + Nikhil (group DM) — 26.06 scope",
+      "summary": "Katerina: none of these should go out in 26.06. Confirm and adjust scope accordingly.",
+      "priority": "medium",
+      "actionNeeded": true,
+      "link": "https://phenom.slack.com/archives/C0BAV1EATSA/p1781680606858859",
+      "meta": { "channel": "Group DM", "from": "Katerina Bineva" }
+    },
+    {
+      "id": "slk-prakash-1781678883",
+      "date": "2026-06-17",
+      "title": "Prakash Sajjala (DM) — India PMs Sync slot",
+      "summary": "Will keep a 30-min slot in the next India PMs Sync; also to be covered in the AI initiatives review with Mohan next Wednesday. FYI.",
+      "priority": "low",
+      "actionNeeded": false,
+      "link": "https://phenom.slack.com/archives/D0B2W25KN6R/p1781678883761339",
+      "meta": { "channel": "DM", "from": "Prakash Sajjala" }
+    },
+    {
+      "id": "slk-zubair-1781618944",
+      "date": "2026-06-16",
+      "title": "Zubair Shaik (DM) — FedRAMP merge update",
+      "summary": "Ticket already closed; FedRAMP changes couldn't be merged due to high-priority Disney work on this critical service. FYI / may need follow-up on timeline.",
+      "priority": "low",
+      "actionNeeded": false,
+      "link": "https://phenom.slack.com/archives/D0B3NANDJG1/p1781618944059359",
+      "meta": { "channel": "DM", "from": "Zubair Shaik" }
+    },
+    {
+      "id": "slk-nadeesh-1781617987",
+      "date": "2026-06-16",
+      "title": "Nadeesh Govindam (DM) — session timing",
+      "summary": "Session 1 closed; session 2 at 7:45 PM IST. FYI.",
+      "priority": "low",
+      "actionNeeded": false,
+      "link": "https://phenom.slack.com/archives/D0B4Z0SM1L6/p1781617987145219",
+      "meta": { "channel": "DM", "from": "Nadeesh Govindam" }
+    }
+  ]
+}
