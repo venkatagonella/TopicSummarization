@@ -5,6 +5,9 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
+    "start": "vite",
+    "stop": "lsof -ti tcp:5273 | xargs kill 2>/dev/null || echo 'Daily Brief server not running'",
+    "restart": "npm run stop; npm run dev",
     "build": "vite build",
     "preview": "vite preview"
   },

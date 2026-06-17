@@ -34,12 +34,21 @@ It will populate once a Gmail connector (OAuth or MCP) is wired up.
 ```bash
 cd web
 npm install      # first time only
-npm run dev
+npm run dev      # start  (http://localhost:5273/)
 ```
 
-Open http://localhost:5273/ (the dev server opens it automatically).
+The server uses a fixed port (5273). Control it with:
 
-Or just ask the agent: **"start my daily brief"** / **"enable localhost"**.
+```bash
+npm run start     # start the server
+npm run stop      # shut it down (kills whatever is on port 5273)
+npm run restart   # stop + start
+```
+
+Or just ask the agent in chat:
+- **"start my daily brief"** / **"enable localhost"** → starts it
+- **"stop the daily brief"** / **"shut down localhost"** → stops it
+- **"refresh my dashboard"** → re-pulls Slack + Jira via MCP, then ensures it's up
 
 ## Project layout
 

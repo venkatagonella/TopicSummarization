@@ -86,6 +86,23 @@ cd web && npm run dev
 Default URL: http://localhost:5273/ . The UI reads the JSON files at runtime; a
 browser refresh picks up new data (no rebuild needed).
 
+## Start / stop on demand
+The server runs on a fixed port (5273, `strictPort`).
+
+- **Start** (trigger words: "start my daily brief", "enable localhost"):
+  ```bash
+  cd web && npm run dev
+  ```
+  Run it as a background process so the turn isn't blocked.
+- **Stop** (trigger words: "stop the daily brief", "shut down localhost"):
+  ```bash
+  cd web && npm run stop
+  ```
+  (`npm run stop` kills whatever is listening on port 5273.)
+- **Restart**: `cd web && npm run restart`.
+- **Check if running**: `lsof -ti tcp:5273` (empty output = not running), or look
+  in `terminals/` for a `vite` process.
+
 ## Notes
 - The "Today" section is an aggregate view derived in the UI from all source
   files — no JSON file to write. New sources are auto-included in it.
