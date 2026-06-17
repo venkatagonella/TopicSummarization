@@ -1,0 +1,147 @@
+{
+  "source": "jira",
+  "label": "Jira",
+  "status": "live",
+  "items": [
+    {
+      "id": "FIRE-5573",
+      "date": "2026-06-17",
+      "title": "FIRE-5573 · CW25 Attend Scrum Meetings",
+      "summary": "Daily OKR. In Progress, due Jun 15 (overdue 2d). Keep attending scrum and update status.",
+      "priority": "high",
+      "actionNeeded": true,
+      "link": "https://phenompeople.atlassian.net/browse/FIRE-5573",
+      "meta": { "status": "In Progress", "due": "2026-06-15", "type": "Story", "project": "FIRE" }
+    },
+    {
+      "id": "FIRE-5571",
+      "date": "2026-06-17",
+      "title": "FIRE-5571 · CW25 Profile team — gain product-area knowledge (sync with Mahendra)",
+      "summary": "In Progress, due Jun 15 (overdue 2d). Check priority items and sync with Mahendra.",
+      "priority": "high",
+      "actionNeeded": true,
+      "link": "https://phenompeople.atlassian.net/browse/FIRE-5571",
+      "meta": { "status": "In Progress", "due": "2026-06-15", "type": "Story", "project": "FIRE" }
+    },
+    {
+      "id": "FIRE-5511",
+      "date": "2026-06-17",
+      "title": "FIRE-5511 · Get the KT plan updated",
+      "summary": "In Progress, due Jun 12 (overdue 5d). Update the knowledge-transfer plan spreadsheet.",
+      "priority": "high",
+      "actionNeeded": true,
+      "link": "https://phenompeople.atlassian.net/browse/FIRE-5511",
+      "meta": { "status": "In Progress", "due": "2026-06-12", "type": "Story", "project": "FIRE" }
+    },
+    {
+      "id": "FIRE-5510",
+      "date": "2026-06-17",
+      "title": "FIRE-5510 · CW24 EPIC Backlog plan for 26-08",
+      "summary": "OKRs - Sprint, due Jun 12 (overdue 5d). Finalize the epic backlog plan for release 26-08.",
+      "priority": "high",
+      "actionNeeded": true,
+      "link": "https://phenompeople.atlassian.net/browse/FIRE-5510",
+      "meta": { "status": "OKRs - Sprint", "due": "2026-06-12", "type": "Story", "project": "FIRE" }
+    },
+    {
+      "id": "FIRE-5517",
+      "date": "2026-06-17",
+      "title": "FIRE-5517 · CW24 Identify workflow differences between Ashby and Phenom",
+      "summary": "In Progress, due Jun 8 (overdue 9d). Compete analysis of Ashby vs Phenom workflows.",
+      "priority": "high",
+      "actionNeeded": true,
+      "link": "https://phenompeople.atlassian.net/browse/FIRE-5517",
+      "meta": { "status": "In Progress", "due": "2026-06-08", "type": "Story", "project": "FIRE" }
+    },
+    {
+      "id": "FIRE-5516",
+      "date": "2026-06-17",
+      "title": "FIRE-5516 · CW24 Draft strategy / PRD for PHEM-2109151",
+      "summary": "In Progress, due Jun 8 (overdue 9d). Create the draft strategy / PRD.",
+      "priority": "high",
+      "actionNeeded": true,
+      "link": "https://phenompeople.atlassian.net/browse/FIRE-5516",
+      "meta": { "status": "In Progress", "due": "2026-06-08", "type": "Story", "project": "FIRE" }
+    },
+    {
+      "id": "FIRE-5509",
+      "date": "2026-06-17",
+      "title": "FIRE-5509 · CW24 Complete creation of HRM stories (4 total)",
+      "summary": "In Progress, due Jun 8 (overdue 9d). Finish writing the 4 HRM stories.",
+      "priority": "high",
+      "actionNeeded": true,
+      "link": "https://phenompeople.atlassian.net/browse/FIRE-5509",
+      "meta": { "status": "In Progress", "due": "2026-06-08", "type": "Story", "project": "FIRE" }
+    },
+    {
+      "id": "PHEM-2121528",
+      "date": "2026-06-17",
+      "title": "PHEM-2121528 · Core BE — remove anonymized candidate from projects/Spotlights/history",
+      "summary": "To Do, no due date. Backend work to purge anonymized candidates across surfaces.",
+      "priority": "medium",
+      "actionNeeded": true,
+      "link": "https://phenompeople.atlassian.net/browse/PHEM-2121528",
+      "meta": { "status": "To Do", "type": "Story", "project": "PHEM" }
+    },
+    {
+      "id": "GODCR-917",
+      "date": "2026-06-17",
+      "title": "GODCR-917 · Remove blank template option during job creation",
+      "summary": "Open, no due date. Remove the blank-template option in the job creation flow.",
+      "priority": "medium",
+      "actionNeeded": true,
+      "link": "https://phenompeople.atlassian.net/browse/GODCR-917",
+      "meta": { "status": "Open", "type": "Story", "project": "GODCR" }
+    },
+    {
+      "id": "CUSP-5053",
+      "date": "2026-06-17",
+      "title": "CUSP-5053 · CRM setting changes — automated reporting for updates",
+      "summary": "Clarifications Required — needs your input to move forward.",
+      "priority": "medium",
+      "actionNeeded": true,
+      "link": "https://phenompeople.atlassian.net/browse/CUSP-5053",
+      "meta": { "status": "Clarifications Required", "type": "Product Feedback", "project": "CUSP" }
+    },
+    {
+      "id": "CUSP-5947",
+      "date": "2026-06-17",
+      "title": "CUSP-5947 · Additional recruiter role in CRM",
+      "summary": "Prioritise to Backlog. Triage/backlog decision pending.",
+      "priority": "low",
+      "actionNeeded": false,
+      "link": "https://phenompeople.atlassian.net/browse/CUSP-5947",
+      "meta": { "status": "Prioritise to Backlog", "type": "Product Feedback", "project": "CUSP" }
+    },
+    {
+      "id": "CUSP-6253",
+      "date": "2026-06-17",
+      "title": "CUSP-6253 · Workflow translation governance",
+      "summary": "In Triage (Trivial). No action required yet.",
+      "priority": "low",
+      "actionNeeded": false,
+      "link": "https://phenompeople.atlassian.net/browse/CUSP-6253",
+      "meta": { "status": "IN Triage", "type": "Product Feedback", "project": "CUSP" }
+    },
+    {
+      "id": "CUSP-5874",
+      "date": "2026-06-17",
+      "title": "CUSP-5874 · Job-scoped note type visible only to hiring team",
+      "summary": "In Triage (Trivial). No action required yet.",
+      "priority": "low",
+      "actionNeeded": false,
+      "link": "https://phenompeople.atlassian.net/browse/CUSP-5874",
+      "meta": { "status": "IN Triage", "type": "Product Feedback", "project": "CUSP" }
+    },
+    {
+      "id": "IDPRP-636",
+      "date": "2026-07-03",
+      "title": "IDPRP-636 · Allow post-apply hiring statuses to be integration-only",
+      "summary": "To Do, due Jul 3. Upcoming — scope the integration-only hiring statuses.",
+      "priority": "medium",
+      "actionNeeded": false,
+      "link": "https://phenompeople.atlassian.net/browse/IDPRP-636",
+      "meta": { "status": "To Do", "due": "2026-07-03", "type": "Product Story", "project": "IDPRP" }
+    }
+  ]
+}
